@@ -1,3 +1,4 @@
+swal("Alerta!", "Ponga la pagína en modo escritorio y su celular en posición vertical para una correcta visualización.", "warning");
 const typed = new Typed('.typed', {
 	strings: [
 		'<i class="text">Moderna.</i>',
