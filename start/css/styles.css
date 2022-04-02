@@ -5,7 +5,7 @@
 }
 img {
      width: 100%;
-     height: auto;
+     height: 100%;
      object-fit: contain;
 }
 
@@ -21,7 +21,7 @@ body {
 
 .contenedor {
 	background-color: #262827;
-	width: 90%;
+	width: 80%;
 	max-width: 2800px;
 	margin: 40px auto;
 	padding: 40px;
@@ -33,11 +33,11 @@ header {
      align-items: center;
      justify-content: space-between;
      flex-wrap: wrap;
-     margin-bottom: 80px;
+     margin-bottom: 60px;
 }
 
 .logo {
-	font-size: 25px;
+	font-size: 20px;
      font-weight: 600;
      color: #FFFFFF;
 	text-decoration: none;
@@ -51,7 +51,7 @@ header {
 }
 
 .menu a {
-	font-size: 20px;
+	font-size: 14px;
      border-bottom: 2px solid transparent;
      margin-left: 40px;
      color: #FFFFFF;
@@ -71,30 +71,30 @@ main {
 }
 
 main .contenedor-img {
-     max-width: 60%;
+     max-width: 100%;
      margin-right: 100px;
      height: 100%;
 }
 
 .contenedor-texto .titulo {
-     font-size: 20px;
+     font-size: 18px;
      font-weight: normal;
      margin-bottom: 40px;
      color: #FFFFFF;
-     font-size: 16px;
 }
 
 .contenedor-texto .text {
      font-weight: bold;
      color: #44883C;
      font-style: normal;
+     font-size: 14px;
 }
 
 .contenedor-texto p {
      margin-bottom: 40px;
      line-height: 36px;
      color: #FFFFFF;
-     font-size: 12px;
+     font-size: 10px;
 }
 
 .btn-link {
