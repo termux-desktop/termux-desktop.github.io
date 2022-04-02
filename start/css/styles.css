@@ -83,6 +83,7 @@ main .contenedor-img {
 }
 
 .contenedor-texto .text {
+     font-size: 12px;
      font-weight: bold;
      color: #44883C;
      font-style: normal;
