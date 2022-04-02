@@ -79,7 +79,8 @@ main .contenedor-img {
      font-size: 50px;
      font-weight: normal;
      margin-bottom: 40px;
-     color: #FFFFFF
+     color: #FFFFFF;
+     font-size: 12px;
 }
 
 .contenedor-texto .text {
