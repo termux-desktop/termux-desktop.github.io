@@ -71,8 +71,8 @@ main {
 }
 
 main .contenedor-img {
-     max-width: auto;
-     margin-right: auto;
+     max-width: 60%;
+     margin-right: 100px;
 }
 
 .contenedor-texto .titulo {
@@ -119,6 +119,6 @@ main .contenedor-img {
      }
 
      main .contenedor-img {
-          margin-bottom: 40px;
+          margin-bottom: 100px;
      }
 }
