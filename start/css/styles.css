@@ -5,7 +5,7 @@
 }
 img {
      width: 100%;
-     height: auto;
+     height: 100%;
      object-fit: contain;
 }
 
@@ -76,7 +76,7 @@ main .contenedor-img {
 }
 
 .contenedor-texto .titulo {
-     font-size: 12px;
+     font-size: 16px;
      font-weight: normal;
      margin-bottom: 40px;
      color: #FFFFFF;
