@@ -12,7 +12,7 @@ img {
 body {
      min-height: 100vh;
      font-family: 'Open Sans', sans-serif;
-     font-size: 20px;
+     font-size: 12px;
 	font-weight: 400;
      background-image: linear-gradient(-25deg, #262827 50%, #2DB297 50%);
      display: flex;
@@ -37,7 +37,7 @@ header {
 }
 
 .logo {
-	font-size: 25px;
+	font-size: 16px;
      font-weight: 600;
      color: #FFFFFF;
 	text-decoration: none;
@@ -51,7 +51,7 @@ header {
 }
 
 .menu a {
-	font-size: 22px;
+	font-size: 12px;
      border-bottom: 2px solid transparent;
      margin-left: 40px;
      color: #FFFFFF;
@@ -92,7 +92,7 @@ main .contenedor-img {
      margin-bottom: 40px;
      line-height: 36px;
      color: #FFFFFF;
-     font-size: 12px;
+     font-size: 8px;
 }
 
 .btn-link {
